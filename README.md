@@ -1,5 +1,5 @@
 <div align="center" style="position: relative;">
-  <img align="center" src="https://user-images.githubusercontent.com/99034743/159275509-948b78ba-8302-43d6-8eab-a317f3a0a310.jpg" style = "width: -webkit-fill-available;"/>
+  <img align="center" src="https://i.ibb.co/tPkH8gZ/1-zl-FMs-WDXeqv8-JEUJv-Z7w.jpg" style = "width: -webkit-fill-available;"/>
   <h1 style="position: absolute; color: white; bottom: 15px; transform: translate(-50%, 0); left: 50%">Senior web and mobile && blockchain developer</h1>
 </div>
 <p align="center">
