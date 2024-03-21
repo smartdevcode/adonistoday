@@ -1,12 +1,9 @@
 <div align="center" style="position: relative;">
-  <img align="center" src="https://i.ibb.co/tPkH8gZ/1-zl-FMs-WDXeqv8-JEUJv-Z7w.jpg" style = "width: -webkit-fill-available;"/>
-  <h1 style="position: absolute; color: white; bottom: 15px; transform: translate(-50%, 0); left: 50%">Senior web and mobile && blockchain developer</h1>
+  
+  <h1 style="position: absolute; color: white; bottom: 15px; transform: translate(-50%, 0); left: 50%">Full Stack Web&Blockchain Developer</h1>
 </div>
-<p align="center">
-  <a href="https://github.com/smartdevcode"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20blockchain%20Engineer;5+%2B%20years%20of%20hands-on%20experience;10+%2B%20years%20of%20web%20developing%20experience;&center=true&width=800&height=45"></a>
-</p>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=justin424.justin424" />
-<h1 align="center"></h1>
+<h4 align="center">I'm passionate about technology! I had my first contact with computers when I was 7 years old and since then I've been discovering a little more about this wonderful area, I like the opportunity that technology offers people, and the proposal to make people's lives easier, I have a dream of getting to know the whole world sharing all my knowledge and also acquiring new experiences and experiences</h4>
 
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥𝐬</h2>
   <div>
@@ -74,43 +71,18 @@
       <a href="https://www.electronjs.org" target="_blank"> 
         <code><img alt="electron" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"/></code>
       </a>
-    </div>
+      <code><img alt="Rust" height="50" width="50" src="https://img.icons8.com/color/2x/rust-programming-language.png"/></code>
+      <code style="margin: 5px"><a href="https://solana.com"><img alt="Solana" title="Solana" src="https://github.com/Nicoli430/logoMaster/blob/master/solana.png" height="42"></a></code>
+      <code><img alt="Bitcoin" height="50" width="50" src="https://img.icons8.com/color/2x/bitcoin.png"/></code>
+      <code><img alt="Ethereum" height="50" width="50" src="https://img.icons8.com/color/2x/ethereum.png"/></code>
+      <code><img alt="Blockchain Technology" height="50" width="50" src="https://img.icons8.com/fluency/2x/blockchain-technology.png"/></code>
+      <code style="margin: 5px"><a href="https://www.blockchain.com"><img alt="BlockChain" title="BlockChain" src="https://github.com/Nicoli430/logoMaster/blob/master/blockchain.png" height="42"></a></code>
+
+
+   
   </div>
 <div style="margin: 10px 0px; border-bottom: solid 1px white;">
-  <a href="https://github.com/smartdevcode"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwork&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
-  <a href="https://github.com/smartdevcode"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/></a>
-  <a href="https://github.com/smartdevcode"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/></a>
+  <a href="https://github.com/adonistoday"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwork&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
+  <a href="https://github.com/adonistoday"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/></a>
+  <a href="https://github.com/adonistoday"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/></a>
 </div>
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" width="400" />
-  <p>
-
- Creative, Passionate, and Efficient Senior Web3 & Cryptocurrency engineer with over 5+ years of experience in BlockChain and of over 10 years in web, mobile and desktop applications design, development, and maintenance. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks. Leaded successful transition from MEAN & MERN Stack to Web3 & Cryptocurrency Stack to improve Web3.0 system performance which is the focus and the future of our life, so for now implemented DAO, DEX, DApp, NFT Marketplaces by using web3 and Solidity. 
-Have worked in all phases of the project life cycle, using a wide variety of tools and frameworks.
-</p>
-
-## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
- 
-### DApps & Online Betting Website
-<br />
-
-### Smart Contract & Crypto
-<br />
-
-### Crypto Trading Platforms & Bots
-<br />
-
-### AR & VR Web and Mobile application
-<br />
-
-### Web & Mobile application using various frameworks
-<br />
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <div style="display: flex; align-items: center;">
-      <a href="mailto:senior.dev.software@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">senior.dev.software@gmail.com</b>
-    </div>
-  </div>
-<div>
